@@ -49,7 +49,14 @@
   },
   {
     "name": "CANALES DE PARAGUAY",
-    "samples": []
+    "samples": [
+      {
+        "name": "Prueba1",
+        "url": "https://streamxhd.com/live1.php?stream=tigo2",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "WEBVIEW"
+      }
+    ]
   },
   {
     "name": "DEPORTES PARAGUAY",

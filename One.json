@@ -40,5 +40,9 @@
         "type": "WEBVIEW"
       }
     ]
+  },
+  {
+    "name": "CANALES PARAGUAY",
+    "samples": []
   }
 ]

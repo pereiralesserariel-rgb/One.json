@@ -23,7 +23,7 @@
       },
       {
         "name": "VS SPORTS",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNDI1NDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1JQQ19DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDUyNWU5OGVlYzExYWQ5NiIsInNlc3Npb25faWQiOiI0Mzc5NzVlZTQ4MjA1ZGJkMWJlYTgyYTA1NDBiMmFiNC0xNzkzMjUyNjI4LTk3NyIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjQzNzk3NWVlNDgyMDVkYmQxYmVhODJhMDU0MGIyYWI0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.A7a_q4VceNsLNrfti7Y2NZc0754-w18YhSHRF9B-gSusNSkvv-E4WW70pjtYVwswlKQBrR7mCe51jupYBAEYBg==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNDI1NDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1JQQ19DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25faWQiOiI0Mzc5NzVlZTQ4MjA1ZGJkMWJlYTgyYTA1NDBiMmFiNC0xNzkzMjUyNjI4LTk3NyIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjQzNzk3NWVlNDgyMDVkYmQxYmVhODJhMDU0MGIyYWI0IiwibWF4X3Nlc3Npb25zIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMTA1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.A7a_q4VceNsLNrfti7Y2NZc0754-w18YhSHRF9B-gSusNSkvv-E4WW70pjtYVwswlKQBrR7mCe51jupYBAEYBg==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.postimg.cc/xCMRqQN9/descarga-(6).jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=a2624484ee4d8c41bac4d41eee323773&key=b58f5c587f8ba08e1132243b139ba4d4",
@@ -32,33 +32,128 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
       {
-                "name": "EVENTOS WEB 2",
-                "url": "https://streamxhd.com/live1.php?stream=tigo2",
-                "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-                "type": "WEBVIEW"
-            },
-            {
-                "name": "EVENTOS 1 WEB",
-                "url": "https://streamxhd.com/live1.php?stream=tigo1",
-                "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-                "type": "WEBVIEW"
-            },
-            {
-                "name": "EVENTOS 3",
-                "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
-                "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg"
-            },
-            {
-                "name": "TIGO WEB PRUEBA",
-                "url": "https://streamx305.sbs/global1.php?channel=fanatiz1",
-                "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
-                "type": "WEBVIEW"
-            },
-            {
-                "name": "TIGO WEB PRUEBA 2",
-                "url": "https://streamx305.sbs/global1.php?channel=fanatiz3",
-                "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
-                "type": "WEBVIEW"
-            }
-        ]
+        "name": "EVENTOS 1 WEB",
+        "url": "https://streamxhd.com/live1.php?stream=tigo1",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "WEBVIEW"
+      },
+      {
+        "name": "EVENTOS WEB 2",
+        "url": "https://streamxhd.com/live1.php?stream=tigo2",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "WEBVIEW"
+      },
+      {
+        "name": "EVENTOS 3",
+        "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TIGO WEB PRUEBA",
+        "url": "https://streamx305.sbs/global1.php?channel=fanatiz1",
+        "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
+        "type": "WEBVIEW"
+      },
+      {
+        "name": "TIGO WEB PRUEBA 2",
+        "url": "https://streamx305.sbs/global1.php?channel=fanatiz3",
+        "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
+        "type": "WEBVIEW"
+      }
+    ]
+  },
+  {
+    "name": "📺 CANALES DE PARAGUAY",
+    "samples": [
+      {
+        "name": "Telefuturo",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "La Tele",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "SNT",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "RPC",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽ DEPORTES PARAGUAY",
+    "samples": [
+      {
+        "name": "Fútbol Paraguayo",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "Canal Deportivo",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "📰 NOTICIAS PARAGUAY",
+    "samples": [
+      {
+        "name": "Noticias PY",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "Canal 13 PY",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "🎬 ENTRETENIMIENTO PY",
+    "samples": [
+      {
+        "name": "Películas PY",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "Series Nacionales",
+        "url": "",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  }
+]

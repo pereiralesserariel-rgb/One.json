@@ -32,12 +32,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "EVENTOS 1 WEB",
-        "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "WEBVIEW"
       }
     ]
   }

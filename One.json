@@ -38,31 +38,6 @@
         "url": "https://streamxhd.com/live1.php?stream=tigo1",
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "WEBVIEW"
-      },
-      {
-        "name": "EVENTOS WEB 2",
-        "url": "https://streamxhd.com/live1.php?stream=tigo2",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "WEBVIEW"
-      },
-      {
-        "name": "EVENTOS 3",
-        "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TIGO WEB PRUEBA",
-        "url": "https://streamx305.sbs/global1.php?channel=fanatiz1",
-        "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
-        "type": "WEBVIEW"
-      },
-      {
-        "name": "TIGO WEB PRUEBA 2",
-        "url": "https://streamx305.sbs/global1.php?channel=fanatiz3",
-        "icono": "https://i.ibb.co/M5jGk5dC/unnamed.png",
-        "type": "WEBVIEW"
       }
     ]
   }

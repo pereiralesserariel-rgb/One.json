@@ -38,7 +38,29 @@
         "url": "https://streamxhd.com/live1.php?stream=tigo1",
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "WEBVIEW"
+      },
+      {
+        "name": "Tele",
+        "url": "https://streamxhd.com/live1.php?stream=tigo2",
+        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
+        "type": "WEBVIEW"
       }
     ]
+  },
+  {
+    "name": "CANALES DE PARAGUAY",
+    "samples": []
+  },
+  {
+    "name": "DEPORTES PARAGUAY",
+    "samples": []
+  },
+  {
+    "name": "NOTICIAS PARAGUAY",
+    "samples": []
+  },
+  {
+    "name": "ENTRETENIMIENTO PY",
+    "samples": []
   }
 ]

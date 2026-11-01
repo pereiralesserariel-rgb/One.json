@@ -3,13 +3,6 @@
     "name": "MIS CANALES",
     "samples": [
       {
-        "name": "TIGO LESSER PRUEBA",
-        "url": "http://tigoedge05.tech/hls/stream3.m3u8",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "GEN_TV",
         "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzNDI1NDE5Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjBmZDJkN2Q3NDYyZWIzZSIsInNlc3Npb25faWQiOiI0Mzc5NzVlZTQ4MjA1ZGJkMWJlYTgyYTA1NDBiMmFiNC0xNzkzMjUyNjE4LTE3MSIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlA6Qk50dnpSbVNSdldBOWg0NHJERHVGZyIsImRldmljZV9pZCI6IjQzNzk3NWVlNDgyMDVkYmQxYmVhODJhMDU0MGIyYWI0IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rpA86j7TbyQgpz0Zuy3gBMV6fwAID07-M_84kabEVfK8BtGg-LKiwXPhcbufr_YV-0GbjSAsRmpwqaUb2BWuIQ==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",

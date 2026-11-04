@@ -44,6 +44,14 @@
           "Referer": "https://portal.app.flow.com.py/"
         },
         "drm_license_uri": "https://clearkey-api-bay.vercel.app/api/results.php?keyid=ff2c94143de42e334c7ee3e081224ee4&key=558c45cc6a1c9aa0b3ea99895196c6e4"
+      },
+      {
+        "name": "Tigo prueba",
+        "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
+        "icono": "https://streamxhd.sbs/live1.php?stream=tigo1",
+        "type": "WEBVIEW",
+        "headers": {},
+        "drm_license_uri": ""
       }
     ]
   },

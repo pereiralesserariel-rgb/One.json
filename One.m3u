@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="gia.moviepro" tvg-name="GIA TV — MoviePro" tvg-logo="https://gia.tv/favicon.png" group-title="🔴 EN VIVO",📺 GIA TV — Mi Canal
-https://183.giatvcdn.com
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8

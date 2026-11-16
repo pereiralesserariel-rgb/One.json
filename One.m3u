@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="gia.moviepro" tvg-name="GIA TV — MoviePro" tvg-logo="https://gia.tv/favicon.png" group-title="🔴 EN VIVO",📺 GIA TV — Mi Canal
+#EXTINF:-1 tvg-id="gia.moviepro" tvg-name="GIA TV â MoviePro" tvg-logo="https://gia.tv/favicon.png" group-title="ð´ EN VIVO",ðº GIA TV â Mi Canal
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="lovenature" tvg-name="LoveNature" tvg-logo="https://i.postimg.cc/sDQy46Xm/unnamed-(12).png" group-title="🔴 EN VIVO",📺 LoveNature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8

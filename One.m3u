@@ -16,7 +16,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 
 #EXTINF:-1 tvg-chno="" tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://i.ibb.co/gFgHTbJg/images-2026-09-12-T062910-418.jpg" group-title="General",Telefuturo
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.http_headers=Origin=https%3A%2F%2Fportal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.http_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed2e9a12e8ae518192c371b6ee86744b:7eaa24ac6e23fd7be2d48005d916eeb4

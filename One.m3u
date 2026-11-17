@@ -1,2 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTINF:-1 tvg-chno="" tvg-id="TIGO.SPORT" tvg-name="TIGO SPORT" tvg-logo="https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png" group-title="General",TIGO SPORT
+https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
+

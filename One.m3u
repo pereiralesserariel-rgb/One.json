@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="gia.moviepro" tvg-name="GIA TV Ã¢ÂÂ MoviePro" tvg-logo="https://gia.tv/favicon.png" group-title="Ã°ÂÂÂ´ EN VIVO",Ã°ÂÂÂº GIA TV Ã¢ÂÂ Mi Canal
+#EXTINF:-1 tvg-id="gia.moviepro" tvg-name="GIA TV ÃÂ¢ÃÂÃÂ MoviePro" tvg-logo="https://gia.tv/favicon.png" group-title="ÃÂ°ÃÂÃÂÃÂ´ EN VIVO",ÃÂ°ÃÂÃÂÃÂº GIA TV ÃÂ¢ÃÂÃÂ Mi Canal
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="lovenature" tvg-name="LoveNature" tvg-logo="https://i.postimg.cc/sDQy46Xm/unnamed-(12).png" group-title="ð´ EN VIVO",ðº LoveNature
+#EXTINF:-1 tvg-id="lovenature" tvg-name="LoveNature" tvg-logo="https://i.postimg.cc/sDQy46Xm/unnamed-(12).png" group-title="Ã°ÂÂÂ´ EN VIVO",Ã°ÂÂÂº LoveNature
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="Prueba.trece" tvg-name="Prueba trece" tvg-logo="https://portal.app.flow.com.py/" group-title="General",Prueba trece
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
@@ -12,4 +12,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/pl
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-api-bay.vercel.app/api/results.php?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0OTU4NDg3Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzYWE1YTBhZTRmMDMwZmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.W5KQNDSWbPoKXWdwh19Rb8OWaqktvH72g02HMSutROA2ucpzouAy2Yn9N_e5QOd1Qu-ICJ3HCJUndc-89GJu1Q==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="Aver" tvg-name="Aver" tvg-logo="https://portal.app.flow.com.py/" group-title="General",Aver
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 

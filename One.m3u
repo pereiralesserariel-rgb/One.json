@@ -1,2 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.1." tvg-name="EVENTO 1 🇵🇾" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="General",EVENTO 1 🇵🇾
+https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.2." tvg-name="EVENTO 2 🇵🇾" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="General",EVENTO 2 🇵🇾
+https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.3." tvg-name="EVENTO 3 🇵🇾" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="General",EVENTO 3 🇵🇾
+https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
+

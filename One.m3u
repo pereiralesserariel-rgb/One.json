@@ -1,41 +1,7 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/rU5mn2F5pm.xml"
-
-#EXTINF:-1 tvg-id="DSPORTS HD.ve" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN.ar" group-title="*DEPORTES" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583124", ESPN ARG (FLOW 🇦🇷)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="DSPORTS HD.ve" tvg-logo="https://i.ibb.co/WWDdrBV5/DSPORTS.png" group-title="Amazon",DSPORTS SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-chno="" tvg-id="Telefuturo" tvg-name="Telefuturo" tvg-logo="https://i.ibb.co/gFgHTbJg/images-2026-09-12-T062910-418.jpg" group-title="General",Telefuturo
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.http_headers=Origin=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed2e9a12e8ae518192c371b6ee86744b:7eaa24ac6e23fd7be2d48005d916eeb4
-https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0OTU4NDg3Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzYWE1YTBhZTRmMDMwZmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.W5KQNDSWbPoKXWdwh19Rb8OWaqktvH72g02HMSutROA2ucpzouAy2Yn9N_e5QOd1Qu-ICJ3HCJUndc-89GJu1Q==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
-
-#EXTINF:-1 tvg-chno="" tvg-id="Telefuturo.1" tvg-name="Telefuturo 1" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO" group-title="General",Telefuturo 1
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.http_headers=Origin=https://portal.app.flow.com.py
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed2e9a12e8ae518192c371b6ee86744b:7eaa24ac6e23fd7be2d48005d916eeb4
-https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0OTU4NDg3Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzYWE1YTBhZTRmMDMwZmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.W5KQNDSWbPoKXWdwh19Rb8OWaqktvH72g02HMSutROA2ucpzouAy2Yn9N_e5QOd1Qu-ICJ3HCJUndc-89GJu1Q==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
-
-#EXTINF:-1 tvg-chno="" tvg-id="Telefuturo.3" tvg-name="Telefuturo 3" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO" group-title="General",Telefuturo 3
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#KODIPROP:inputstream.adaptive.http_headers=Origin=https%3A%2F%2Fportal.app.flow.com.py
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed2e9a12e8ae518192c371b6ee86744b:7eaa24ac6e23fd7be2d48005d916eeb4
-https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0OTU4NDg3Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzYWE1YTBhZTRmMDMwZmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.W5KQNDSWbPoKXWdwh19Rb8OWaqktvH72g02HMSutROA2ucpzouAy2Yn9N_e5QOd1Qu-ICJ3HCJUndc-89GJu1Q==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
-
+#KODIPROP:inputstream.adaptive.license_key={"ed2e9a12e8ae518192c371b6ee86744b":"7eaa24ac6e23fd7be2d48005d916eeb4"}
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd

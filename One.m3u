@@ -1,8 +1,31 @@
-#EXTINF:-1 tvg-id="TeleFuturo.ar" tvg-name="TeleFuturo" group-title="⚽ DEPORTES" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583124",TeleFuturo (FLOW 🇦🇷)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed2e9a12e8ae518192c371b6ee86744b:7eaa24ac6e23fd7be2d48005d916eeb4
-#KODIPROP:inputstream.adaptive.http_headers=Origin=https%3A%2F%2Fportal.app.flow.com.py
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://edge-live04-sl.cvattv.com.ar/tok_eyJhbG***************************CJ9.eyJleHAiOiIxNzk0OTU4NDg3Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIzYWE1YTBhZTRmMDMwZmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.W5KQNDSWbPoKXWdwh19Rb8OWaqktvH72g02HMSutROA2ucpzouAy2Yn9N_e5QOd1Qu-ICJ3HCJUndc-89GJu1Q==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+        {
+          "name": "VS SPORTS",
+          "image": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"omJEhO5NjEG6xNQe7jI3cw\",\"k\":\"tY9cWH-LoI4RMiQ7E5uk1A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "⚽EVENTOS FLOW COPA DEL REY⚽",
+      "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+      "stations": [
+        {
+          "name": "EVENTOS FLOW 1",
+          "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+          "license_type": "clearkey",
+          "token": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_cenc/Eventos1HD.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_bmWNSpFszm4bz6zNq82xg\",\"k\":\"IbhUPBOyuH4OCXYCpx8_kQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          }
+        },

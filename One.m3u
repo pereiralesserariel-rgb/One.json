@@ -1,15 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.1." tvg-name="1.EVENTO 1" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="General",EVENTO 1 Ã°ÂÂÂµÃ°ÂÂÂ¾
+
+#EXTINF:-1 tvg-chno="1" tvg-id="EVENTO.1." tvg-name="EVENTO 1" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="Eventos",EVENTO 1 🇵🇾
 https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.2." tvg-name="2.EVENTO 2" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="General",EVENTO 2 Ã°ÂÂÂµÃ°ÂÂÂ¾
+#EXTINF:-1 tvg-chno="2" tvg-id="EVENTO.2." tvg-name="EVENTO 2" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="Eventos",EVENTO 2 🇵🇾
 https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="EVENTO.3." tvg-name="3.EVENTO 3" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="General",EVENTO 3 Ã°ÂÂÂµÃ°ÂÂÂ¾
+#EXTINF:-1 tvg-chno="3" tvg-id="EVENTO.3." tvg-name="EVENTO 3" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="Eventos",EVENTO 3 🇵🇾
 https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="TELEFUTURO" tvg-name="4.TELEFUTURO" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO" group-title="General",TELEFUTURO
+#EXTINF:-1 tvg-chno="4" tvg-id="TELEFUTURO" tvg-name="TELEFUTURO" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO" group-title="Paraguay🇵🇾",TELEFUTURO
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -18,7 +19,7 @@ https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"ed2e9a12e8ae518192c371b6ee86744b":"7eaa24ac6e23fd7be2d48005d916eeb4"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="ABC" tvg-name="5.ABC" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/Kh2c074ubwBnNJTFm13ovQ?tags=CH_LOGO" group-title="General",ABC
+#EXTINF:-1 tvg-chno="5" tvg-id="ABC" tvg-name="ABC" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/Kh2c074ubwBnNJTFm13ovQ?tags=CH_LOGO" group-title="Paraguay🇵🇾",ABC
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -26,4 +27,3 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1e8c184b326a2fb228b37a4a7114b633":"1c5fa10b3fe66d8693b8755e5f6ae6c0"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
-

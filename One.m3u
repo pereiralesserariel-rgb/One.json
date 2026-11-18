@@ -72,7 +72,7 @@ https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="Evento.3" tvg-name="Evento 3" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS PARAGUAY",Evento 3
 https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="anduti" tvg-name="Ãanduti" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/9sXshEmcpvJ44Nc46ODaBw?tags=CH_LOGO" group-title="General",Ãanduti
+#EXTINF:-1 tvg-chno="" tvg-id="anduti" tvg-name="ÃÂanduti" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/9sXshEmcpvJ44Nc46ODaBw?tags=CH_LOGO" group-title="General",ÃÂanduti
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -89,4 +89,13 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e3dae0418c43c763bdc55c7cc887fb40":"608425ead9e9ce5e143cad164350f738"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="La.Tele" tvg-name="La Tele" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/IgsLLdcHrTzclBqQghGdGg?tags=CH_LOGO" group-title="General",La Tele
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"51bcbf1f1f83f30e91a1f1b6ff9155ee":"c1fb35c39a7353bf9493799086d887ac"}
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
 

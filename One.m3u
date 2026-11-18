@@ -274,7 +274,7 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"6477522b434cad2020b5fb4d055720b0":"c5f7b491a191048931aaaf0314558bc7"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="Amrica.Ar" tvg-name="AmÃÂÃÂ©rica Ar" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/Yv6oxFrcTPE9m36hkY_2Lw?tags=CH_LOGO" group-title="CANALES ARGENTINA",AmÃÂÃÂ©rica Ar
+#EXTINF:-1 tvg-chno="" tvg-id="Amrica.Ar" tvg-name="AmÃÂÃÂÃÂÃÂ©rica Ar" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/Yv6oxFrcTPE9m36hkY_2Lw?tags=CH_LOGO" group-title="CANALES ARGENTINA",AmÃÂÃÂÃÂÃÂ©rica Ar
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -309,4 +309,13 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8f1780497a311eb5e38ea03085888c47":"0dbdebc8d5336c970ac8c904e9bcd034"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO" group-title="CANALES ARGENTINA",Pasiones
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dcf5f8c4d5b8d1f68a68dbe8a5c8d490":"b888f5f0c1cc6e097a67a56c25e2f490"}
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
 

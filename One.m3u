@@ -208,3 +208,6 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"01dd2887ed345bc7642dabdb48d03d01":"54e68667949f5b569ff0fcd434f4d243"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
 
+#EXTINF:-1 tvg-chno="" tvg-id="Central.Tv" tvg-name="Central Tv" tvg-logo="https://i.ibb.co/9H7qhBQN/images-80.png" group-title="General",Central Tv
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/1200.m3u8
+

@@ -1,3 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-chno="1" tvg-id="Evento.1" tvg-name="Evento 1" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="EVENTOS PARAGUAY 🇵🇾",Evento 1
+https://183.giatvcdn.com/ssh101/giatv-moviepro/moviepro/chunks.m3u8
+

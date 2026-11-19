@@ -479,3 +479,12 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"3f2e12c72e1a011be0569fbd9ca486ab":"1273deabb3c043560fe264dd2b1690f1"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
 
+#EXTINF:-1 tvg-chno="" tvg-id="Espn3" tvg-name="Espn3" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO" group-title="DEPORTES FLOW TV",Espn3
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"deeed0f44c6b45e064f4d5064486e821":"bf89ceeb93564ddc603ba6afd8c9266a"}
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+

@@ -533,7 +533,7 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"fdd337296e43e69aefee1bbc4f04e663":"d9883167d78827a0ec24dae99e03a3e2"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="El.Garage" tvg-name="El Garage" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/VMtd4DTffIxtznKvY0LNyg?tags=CH_LOGO" group-title="DOCUMENTALES ð¢ð§",El Garage
+#EXTINF:-1 tvg-chno="" tvg-id="El.Garage" tvg-name="El Garage" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/VMtd4DTffIxtznKvY0LNyg?tags=CH_LOGO" group-title="DOCUMENTALES Ã°ÂÂÂ¢Ã°ÂÂÂ§",El Garage
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -542,7 +542,7 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"a3ea9cbb34e7f4dbf6156a68f913d6d7":"1c00f433ce482e2b8766a6a020634947"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="Discovery.Turbo" tvg-name="Discovery Turbo" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/rjlPBFz0211asbTWEdwy9g?tags=CH_LOGO" group-title="DOCUMENTALES 🐢🐧",Discovery Turbo
+#EXTINF:-1 tvg-chno="" tvg-id="Discovery.Turbo" tvg-name="Discovery Turbo" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/rjlPBFz0211asbTWEdwy9g?tags=CH_LOGO" group-title="DOCUMENTALES ð¢ð§",Discovery Turbo
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -550,4 +550,13 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f55ecc6486bcae9fd3f53271fc16ad8":"eeb7df5969fc58b5771f2f3bc7502ad5"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="America.sport.Satelital" tvg-name="America sport Satelital" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/qPhxg2V8AzmZJNNmXIuRKA?tags=CH_LOGO" group-title="DEPORTES FLOW TV",America sport Satelital
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3269536fedc69cba1e0281ff62cc4eb9":"5246eedf4e7af3771f80899db667dede"}
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd
 

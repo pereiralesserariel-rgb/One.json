@@ -731,3 +731,12 @@ https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"613a3dc25b1d3ed4186e2a399ac7f081":"7b5cf1cf7aeda446359bbcd23b5771b6"}
 https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd
 
+#EXTINF:-1 tvg-chno="" tvg-id="Europa.Europa" tvg-name="Europa Europa" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/dblMns5X14N1BcVvjn3_GA?tags=CH_LOGO" group-title="CANALES FLOW CINE",Europa Europa
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02ba4e4b769e4c148250ec3f2f206e46":"659530e217d14c24826899bdefac48e9"}
+https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDgxMjkzIiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlYWI5YmVhMzQ4OTg5ZTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzNjMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.oTYIKPxeYjt4VNAzaBCjJU0NHdAKA5UdfeXLSjBJJtkN2NQbhBOHNvAGVlUVxXJHqJblzQCFZLkAFUZQzHK_Bg==/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd
+

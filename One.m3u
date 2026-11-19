@@ -1028,7 +1028,7 @@ https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"2718fd9ea3492a477bd91c51d348185d":"979d54e467efcac7b5ea18d50f74ee08"}
 https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MjcyNzA1Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE0Njg1YmRhNjQ3Y2Y3YzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzM5Iiwic291cmNlcyI6WzIwOSw4NSwxNDQsMjEwLDg2LDg4XX0=.jad4JHXrkPUj30aiZfLwi4PlHNgKXOitH9LA-N8PbA0mShgYpwtYZR6KsqegwcYx0-bHGRKQMxI-neyIMp4vaw==/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="Tv.Espaa" tvg-name="Tv Espana" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/G1n9QBaEFBFfEvhrX7joug?tags=CH_LOGO" group-title="BONOS FLOW TV",Tv EspaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±a
+#EXTINF:-1 tvg-chno="" tvg-id="Tv.Espaa" tvg-name="Tv Espana" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/G1n9QBaEFBFfEvhrX7joug?tags=CH_LOGO" group-title="BONOS FLOW TV",Tv EspaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±a
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1055,7 +1055,7 @@ https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"f687c6991de847a7570aaafed45ef0ef":"f9ef914c2d632cdbc180d5b4828f0956"}
 https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MjcyNzA1Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE0Njg1YmRhNjQ3Y2Y3YzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzM5Iiwic291cmNlcyI6WzIwOSw4NSwxNDQsMjEwLDg2LDg4XX0=.jad4JHXrkPUj30aiZfLwi4PlHNgKXOitH9LA-N8PbA0mShgYpwtYZR6KsqegwcYx0-bHGRKQMxI-neyIMp4vaw==/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd
 
-#EXTINF:-1 tvg-chno="" tvg-id="France.Espaol" tvg-name="France Espanol" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO" group-title="BONOS FLOW TV",France EspaÃÂ±ol
+#EXTINF:-1 tvg-chno="" tvg-id="France.Espaol" tvg-name="France Espanol" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO" group-title="BONOS FLOW TV",France EspaÃÂÃÂ±ol
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1072,4 +1072,13 @@ https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"69d08ad795092fc59dbdfb194424dd92":"a73948b44e9292eede50c0c654301860"}
 https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MjcyNzA1Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE0Njg1YmRhNjQ3Y2Y3YzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzM5Iiwic291cmNlcyI6WzIwOSw4NSwxNDQsMjEwLDg2LDg4XX0=.jad4JHXrkPUj30aiZfLwi4PlHNgKXOitH9LA-N8PbA0mShgYpwtYZR6KsqegwcYx0-bHGRKQMxI-neyIMp4vaw==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="26" tvg-name="26" tvg-logo="https://staticm11.app.flow.com.ar/images/content/200/140/u5NM8LAogdMb7qWMWD1jGg?tags=CH_LOGO" group-title="CANALES ARGENTINA",26
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.py
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52e55c3298f2e07cbfe59eb48ffda940":"0fb5916a14188e5eed56afb110e82af7"}
+https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MjcyNzA1Iiwic2lwIjoiMTgxLjg1LjIwOS40MyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Vbml2ZXJzby9TQV9MaXZlX2hsc19mYWlycGxheS8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE0Njg1YmRhNjQ3Y2Y3YzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzM5Iiwic291cmNlcyI6WzIwOSw4NSwxNDQsMjEwLDg2LDg4XX0=.jad4JHXrkPUj30aiZfLwi4PlHNgKXOitH9LA-N8PbA0mShgYpwtYZR6KsqegwcYx0-bHGRKQMxI-neyIMp4vaw==/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 

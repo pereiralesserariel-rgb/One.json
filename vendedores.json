@@ -1,12 +1,5 @@
 {
   "version": 1,
-  "actualizado": "2026-11-23T18:42:33.389Z",
-  "vendedores": [
-    {
-      "id": "NP-B1B8C660BBE0DA7CFA40EC9A",
-      "nombre": "Prueba2",
-      "estado": "activo",
-      "creado": "2026-11-23T18:32:18.661Z"
-    }
-  ]
+  "actualizado": "2026-11-23T18:42:47.938Z",
+  "vendedores": []
 }

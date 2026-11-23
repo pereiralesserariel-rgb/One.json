@@ -1,5 +1,12 @@
 {
   "version": 1,
-  "actualizado": "2026-11-23T18:28:39.434Z",
-  "vendedores": []
+  "actualizado": "2026-11-23T18:29:05.421Z",
+  "vendedores": [
+    {
+      "id": "NP-0899CA304357F6D2340739A5",
+      "nombre": "Lesser",
+      "estado": "activo",
+      "creado": "2026-11-23T18:29:05.420Z"
+    }
+  ]
 }

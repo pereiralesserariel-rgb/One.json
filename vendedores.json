@@ -1,5 +1,12 @@
 {
   "version": 1,
-  "actualizado": "2026-11-23T18:10:58.432Z",
-  "vendedores": []
+  "actualizado": "2026-11-23T18:11:11.411Z",
+  "vendedores": [
+    {
+      "id": "NP-B394365AB03516C9EBDD189E",
+      "nombre": "LesserArielOficial",
+      "estado": "activo",
+      "creado": "2026-11-23T18:11:11.410Z"
+    }
+  ]
 }

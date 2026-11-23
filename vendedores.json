@@ -1,5 +1,12 @@
 {
   "version": 1,
-  "actualizado": "2026-11-23T21:21:52.752Z",
-  "vendedores": []
+  "actualizado": "2026-11-23T21:27:28.805Z",
+  "vendedores": [
+    {
+      "id": "NP-121177FA29BBA78F7F59CAB6",
+      "nombre": "Lesserprueba",
+      "estado": "activo",
+      "creado": "2026-11-23T21:27:28.798Z"
+    }
+  ]
 }
